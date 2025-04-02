@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(223, 223, 199, 0.74);}
+    #mc{
+        color: blue;
+        font-family: algerian;
+    }
+    kayoro{
+        background-color: blueviolet;
+    }
+    .itc{
+        color: aqua;
+        margin: 22px;
+        margin-right: 30px;
+    }
+    .ab{
+        border: 2px;
+        padding: left 12px;
+        padding top: 12px;
+        padding-right: 12ch;
+        padding-bottom: 12%;
+    }
+    .nav{
+        background-color: black;
+        padding: 10;
+    }
+    .menu{
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+    .menu li{
+        margin: 0 15;
+    }
+    .menu a{
+        text-decoration: none;
+        color: white;
+        font-size: 18px;
+        padding: 10px 15px;
+        display: block;
+    }
+    .menu a :hover{
+        background-color: #555;
+        border-radius: 5px;
+    }
